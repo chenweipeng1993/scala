@@ -53,3 +53,7 @@ D:\WorkSpace\GitHub\scala\scalac>scala greeting scala
 hello world scala!
 
 D:\WorkSpace\GitHub\scala\scalac>
+
+----Scala的基本语法
+https://blog.csdn.net/hpp1314520/article/details/78973872
+

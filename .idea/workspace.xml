@@ -31,7 +31,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="566" />
     <option name="y" value="193" />
     <option name="width" value="1014" />
@@ -203,15 +203,15 @@
       <updated>1523366670619</updated>
       <workItem from="1523366676843" duration="1383000" />
       <workItem from="1523368101694" duration="1309000" />
-      <workItem from="1523371056064" duration="691000" />
+      <workItem from="1523371056064" duration="1126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3383000" />
+    <option name="totallyTimeSpent" value="3818000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="566" y="193" width="1014" height="806" extended-state="1" />
+    <frame x="566" y="193" width="1014" height="806" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
